@@ -7,7 +7,10 @@
 /* This is a comment */
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps');
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps');
+<<<<<<< HEAD
 >>>>>>> css-styling2
+=======
+>>>>>>> b9dba95c1af4a8ffc35ddb88f0416cb4a5fff462
 
 p {font-size: 1em; 
   line-height: 1.5em;}
@@ -17,14 +20,19 @@ p {font-size: 1em;
     font-size: 0.75em;
     line-height: 1.5em;
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-family: "Elsie Swash Caps", cursive;
 =======
     font-family: Georgia, "Elsie Swash Caps", cursive, serif;
 >>>>>>> css-styling2
+=======
+    font-family: Georgia, "Elsie Swash Caps", cursive, serif;
+>>>>>>> b9dba95c1af4a8ffc35ddb88f0416cb4a5fff462
     color: #777;
     text-align: right;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .milk-text { 
   font: bold 2.6em "Elsie Swash Caps", cursive;
@@ -53,9 +61,15 @@ p {font-size: 1em;
     color: red;
   }
 =======
+=======
+>>>>>>> b9dba95c1af4a8ffc35ddb88f0416cb4a5fff462
 .mild-text {
   font: bold 2.6em "Elsie Swash Caps", cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
+<<<<<<< HEAD
 }
 >>>>>>> css-styling2
+=======
+}
+>>>>>>> b9dba95c1af4a8ffc35ddb88f0416cb4a5fff462
